@@ -1,0 +1,102 @@
+#title1 {
+	color: #96CDFF;
+	background-color:#29339B;
+	padding: 10px;
+	font-size: 30px;
+	font-weight: bold ;
+	border: 5px solid #96CDFF;
+	font-family: "Trirong", "Alegreya Sans SC", serif;
+	
+
+}
+
+body {
+	background-color: #D8E1FF;
+}
+
+.buttons {
+	font-size: 20px;
+	color: #231651;
+	border: groove 3px #231651 ;
+	background-color: #96CDFF;
+	padding: 10px ;
+	border-radius:8px;
+	display:inline-block;
+	text-decoration: none;
+	font-weight: bold ;
+	font-family: "Trirong", "times new roman", serif;
+
+}
+
+
+ul{
+	list-style-type: none;
+}
+
+
+*{
+	text-align: center;
+}
+
+.titles {
+	color:#29339B ;
+	background-color:#D8E1FF;
+	border: dotted 4px #231651 ;
+	font-family: "Trirong", "times new roman", serif;
+	
+}
+
+h3 {
+	color: #96CDFF;
+	background-color: #29339B;
+	padding: 5px;
+	font-size: 25px;
+	width: fit-content;
+	margin: auto;
+	margin-top: 10px;
+
+}
+
+p {
+	color: #29339B;
+	background-color:#96CDFF;
+	padding: 20px;
+	height: 70px;
+
+
+}
+
+ul li{
+	color: #29339B;
+	padding: 15px;
+	width: fit-content;
+	margin: auto;
+}
+
+ol li {
+	color: #29339B;
+	padding: 15px;
+	background-color:#96CDFF;
+	padding: 15px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
